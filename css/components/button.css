@@ -1,0 +1,22 @@
+.btn {
+    background-color: #1d5b6e;
+    padding: 30px 90px;
+    border-radius: 4px;
+    color: white;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+#btn:hover {
+    background-color: lightblue;
+}
+.btn2 {
+    background-color: #1d5b6e;
+    padding: 40px 50px;
+    color: white;
+    border-radius: 8px;
+    margin: 15px;
+    transition: background-color 0.3s ease;
+}
+.btn2:hover {
+    background-color: lightblue;
+}
